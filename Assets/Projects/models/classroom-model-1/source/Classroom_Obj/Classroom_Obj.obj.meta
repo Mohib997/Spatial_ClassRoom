@@ -1,0 +1,2707 @@
+fileFormatVersion: 2
+guid: 6e408226ad041964fba0be7faac1aff3
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh100_Group67_c_schoolchair7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 60ae8ec3339b2dd4baccebc16d30c34b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh101_Component_27_7_Group68_c_schooldesk7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 13f178ecc2d298943a80d5cd66c46412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh102_Group68_c_schooldesk7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 103f9b6345197b841825936808f98266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh103_Group68_c_schooldesk7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 93e526f607351bb4eb2001b09535e018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh104_Group68_c_schooldesk7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0e92d96087d70cc47a6efa6bcaf9b30c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh105_Component_31_15_Group70_c_schoolchair8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 10f2bd8cb7ccfc148854ab5a14c35c89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh106_Component_31_16_Group70_c_schoolchair8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 486f40f4cfdd1f14d9d70f3f24c36d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh107_Component_24_15_Component_30_8_Group70_c_schoolchair8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b1a5ebea5bffd3b4fa45c4dbc06f3f75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh108_Component_24_16_Component_30_8_Group70_c_schoolchair8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5f5518d068acc9242863ae12248ae3fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh109_Component_30_8_Group70_c_schoolchair8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 304ff34842b4ee6469c45cd76ac3cdc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh10_Group21_Group20_Group16_Group15_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 91cc8038913d471419fd8190658048ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh110_Group70_c_schoolchair8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 704d5ec15b78c6f4a927eb33343127bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh111_Group70_c_schoolchair8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ad064e18023fc3748b24d00e6cec8a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh112_Component_27_8_Group71_c_schooldesk8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 07c1dbf6711b6e042b4e333368020f39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh113_Group71_c_schooldesk8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 90cca32ee9c9d504bb09b0b0007b1e25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh114_Group71_c_schooldesk8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d988349a71b01f74ab9d55222ea57abe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh115_Group71_c_schooldesk8_Group69_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 075f479205b8df8489ca165427ff2bc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh116_Component_31_17_Group73_c_schoolchair9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 70862b0847e9f8443b005cd826ae09ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh117_Component_31_18_Group73_c_schoolchair9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: eb468651a63fb4b4db36f7e44887e290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh118_Component_24_17_Component_30_9_Group73_c_schoolchair9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b44e9b1e95aeadd4f834f72474250ab6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh119_Component_24_18_Component_30_9_Group73_c_schoolchair9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b4b912e1e2a51ef43a0ec9e067ab81ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh11_Group22_Group20_Group16_Group15_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b05b128bf71957741acb1202e5cf01b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh120_Component_30_9_Group73_c_schoolchair9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 48b1e8c27e0cb194dbf23517bf908ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh121_Group73_c_schoolchair9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e791ac4a58261574486983296026f92d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh122_Group73_c_schoolchair9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0683f9f3d2bff7a44bf595bd835149b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh123_Component_27_9_Group74_c_schooldesk9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: fe1a43d68c2f35142a8a3552678338c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh124_Group74_c_schooldesk9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 25c2b599f8d591744ab67218289ff7e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh125_Group74_c_schooldesk9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 179184b9f054f33469b0a1c697476847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh126_Group74_c_schooldesk9_Group72_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2748444cf33a28f44a8dad908bd50089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh127_Component_31_19_Group76_c_schoolchair10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 13096a47b88d6e84a8de691a2547d88b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh128_Component_31_20_Group76_c_schoolchair10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 95a19a097ed162e4db3efe7deec3e90a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh129_Component_24_19_Component_30_10_Group76_c_schoolchair10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 988a83861c8b0194798fae5b0b2d3f19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh12_Group23_Group16_Group15_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 912bd6434e237ce4f8aaa644c9ff1672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh130_Component_24_20_Component_30_10_Group76_c_schoolchair10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: fab3671741bb9544f8fb2508b64fe665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh131_Component_30_10_Group76_c_schoolchair10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 80c2dbe992326a94bb35564821f405cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh132_Group76_c_schoolchair10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 049e41225704fd346884b8146a056230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh133_Group76_c_schoolchair10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bf091eef3fcd09c4c939a6c8afb142c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh134_Component_27_10_Group77_c_schooldesk10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0f1ea2220d9e78240be764b0e06223d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh135_Group77_c_schooldesk10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c2bc5e54b75af35418faf7af08d2b949, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh136_Group77_c_schooldesk10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f50c6460aca586546b55f612a8eabadf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh137_Group77_c_schooldesk10_Group75_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ee063fcd9076f4a48ab7733be4d48940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh138_Component_31_21_Group79_c_schoolchair11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0eea61b38b30f504da48a36535cdd95a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh139_Component_31_22_Group79_c_schoolchair11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2d2e0df2c1c1b5a48bd9755d2dc70942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh13_Group24_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b9673d44be2d8324799e557c551c61ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh140_Component_24_21_Component_30_11_Group79_c_schoolchair11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3a4a3045e2e860f4c9d6f11a8c98dbb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh141_Component_24_22_Component_30_11_Group79_c_schoolchair11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 888bfa21ba51cc74f8bd3ad787d428bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh142_Component_30_11_Group79_c_schoolchair11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 945579439693413479a615b1253e5780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh143_Group79_c_schoolchair11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ad26b24c1c215484b9b83162cdb4ae89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh144_Group79_c_schoolchair11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e92d6ff44061e0e4993b9f38e535814b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh145_Component_27_11_Group80_c_schooldesk11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9975ed10563ad43458b4f30b5e2bc2ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh146_Group80_c_schooldesk11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 06725d1fa2aca0a4ba440c1c10d9b9a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh147_Group80_c_schooldesk11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b15c2490e5ff2af4495e199d66d84111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh148_Group80_c_schooldesk11_Group78_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8396938aedce25b4fb532631931f1bd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh149_Component_31_23_Group82_c_schoolchair12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8575c21c08e6b894f9313dacf80363a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh14_Group28_Group27_Group26_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f3f508698f3dc0e4f9df570d38914142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh150_Component_31_24_Group82_c_schoolchair12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ae08815e3832e434fad7bf0b276a7e6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh151_Component_24_23_Component_30_12_Group82_c_schoolchair12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a5c6d0b97efaa1d4b9640e0eb35aaa82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh152_Component_24_24_Component_30_12_Group82_c_schoolchair12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bd05217fd659dbf4282d03645d11f9f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh153_Component_30_12_Group82_c_schoolchair12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 22a09fe9fd80b6f42b8a9d7bc164b491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh154_Group82_c_schoolchair12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 321e992adb3328845bcb8c11765b2d7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh155_Group82_c_schoolchair12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ad6f52dc80349394ca4508e9e4401533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh156_Component_27_12_Group83_c_schooldesk12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6543f0cccdf3e7143a214834e000bfe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh157_Group83_c_schooldesk12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d12e3ec5feec247498a299b445d79db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh158_Group83_c_schooldesk12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6636db39fb455524fbd355889335a054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh159_Group83_c_schooldesk12_Group81_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d40e1c20de04f234493ce9f1dd7c858d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh15_Group29_Group27_Group26_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 46e535d8f132d05469035d07caf2da10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh160_Component_31_25_Group85_c_schoolchair13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 079852f718c459d429e69772327cb8e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh161_Component_31_26_Group85_c_schoolchair13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1ec202ca75a556c49a152ef595b13c23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh162_Component_24_25_Component_30_13_Group85_c_schoolchair13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9b18b27466414a148b59f4b7593c53d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh163_Component_24_26_Component_30_13_Group85_c_schoolchair13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: af192349931201845b84d444bdf59a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh164_Component_30_13_Group85_c_schoolchair13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2c22b8c4a0b37554b82507289aa2ac12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh165_Group85_c_schoolchair13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 88b9e7bedb08c3f4b9fec26d5082d2f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh166_Group85_c_schoolchair13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3a8587c3f7976f944863e3d24f51a6d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh167_Component_27_13_Group86_c_schooldesk13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: edc41d6e02f92244c98bcdee1fcbf578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh168_Group86_c_schooldesk13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b505706cb8eddb94da76bd31f1c6ceb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh169_Group86_c_schooldesk13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ca15a9fe99526dc449c9e668de0b1f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh16_Group31_Group30_Group27_Group26_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b63c6ab6585259d45bda388397164b85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh170_Group86_c_schooldesk13_Group84_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 028d3155bb6002249868f9dd7c828d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh171_Component_31_27_Group88_c_schoolchair14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d421e80b17cf7de4ebe939b0c429c811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh172_Component_31_28_Group88_c_schoolchair14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 731dde09eac1a694c9187dd428864a4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh173_Component_24_27_Component_30_14_Group88_c_schoolchair14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ce819dd83caac0647a69cbef0208aaa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh174_Component_24_28_Component_30_14_Group88_c_schoolchair14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2c36c214e11cd194f8fc885a6e57efa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh175_Component_30_14_Group88_c_schoolchair14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f3e7d70bfdffe884ea26a03442f21a61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh176_Group88_c_schoolchair14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 79e2abd60cdd2044f9bb539944fc8662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh177_Group88_c_schoolchair14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bb8289d5c0e63f54c9a9e6c2b553bc07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh178_Component_27_14_Group89_c_schooldesk14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3fc7d9aee73be3f48997d330b2f559c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh179_Group89_c_schooldesk14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5fd6188a0a61f03489265e303e37af57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh17_Group32_Group30_Group27_Group26_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 442a4a584ae93eb4d94eaadb0c2e98ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh180_Group89_c_schooldesk14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5982ed578a585914ba90e1452b081ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh181_Group89_c_schooldesk14_Group87_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f435f7a043e5e80459ad4a9295a88219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh182_Component_31_29_Group91_c_schoolchair15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a54105c1a42225a458953fad749337f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh183_Component_31_30_Group91_c_schoolchair15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9d4f211fc8941fd4d8e9526c2d480aae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh184_Component_24_29_Component_30_15_Group91_c_schoolchair15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ab52f80aa862e9c4eafbabcad84d7321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh185_Component_24_30_Component_30_15_Group91_c_schoolchair15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 802b1092415fb0842a03e25379f56429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh186_Component_30_15_Group91_c_schoolchair15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e012c613a1fbb6a45935d5406d98c87a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh187_Group91_c_schoolchair15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ae25e8e7ce89b9143a2639c9a4f8d371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh188_Group91_c_schoolchair15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9bd4819cfaefe2a4283835655480980e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh189_Component_27_15_Group92_c_schooldesk15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0a780af2e0d09974484c85291394a254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh18_Group33_Group26_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: cd62aab076e8e2e47ae0b84df89ddf38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh190_Group92_c_schooldesk15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e7bc63faea1169d42ac91b81531d57ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh191_Group92_c_schooldesk15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c6ebd0216e03b4a40b2422acc93b0c7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh192_Group92_c_schooldesk15_Group90_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 343504222939a8f449b101081812b362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh193_Component_31_31_Group94_c_schoolchair16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8c42da0154944a54db36aa8445693d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh194_Component_31_32_Group94_c_schoolchair16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 70865a45be15f354fbde95f382e76ce9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh195_Component_24_31_Component_30_16_Group94_c_schoolchair16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 88ed3d7a61c90c94d8671ccc96cdeb03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh196_Component_24_32_Component_30_16_Group94_c_schoolchair16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b4808bec0f9a6664b95fd4ee44e1a16b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh197_Component_30_16_Group94_c_schoolchair16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e43cff6946f99f348973ec5d424e4369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh198_Group94_c_schoolchair16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5f692c96f8722b34d90a40994854922d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh199_Group94_c_schoolchair16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ae96621095978ac4b932aa9650f2c5f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh19_Group35_Group34_Group26_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 24a2c42bf557d6d4e81e6b9258f6a723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh1_Group2_Group1_ModelMat
+    second: {fileID: 2100000, guid: 334b6955519b01f4d8d96dbf76981c3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh200_Component_27_16_Group95_c_schooldesk16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e0577199d712aec49bf15a635abbaa24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh201_Group95_c_schooldesk16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d873df3a11ee20d4b84a737c683f8fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh202_Group95_c_schooldesk16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 979936068d8d18e4fbc0167ab12053d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh203_Group95_c_schooldesk16_Group93_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: fc680d11357349b45a79f9cacc5f53f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh204_Component_31_33_Group97_c_schoolchair17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c4a2066e20ae77940ad066cb932a0655, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh205_Component_31_34_Group97_c_schoolchair17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d640cd49483dd7449b0fdf45598d8325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh206_Component_24_33_Component_30_17_Group97_c_schoolchair17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0473ebd87e6642d4fa7cc750a8b050c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh207_Component_24_34_Component_30_17_Group97_c_schoolchair17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f811a39e198a59c429e060b60028f39d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh208_Component_30_17_Group97_c_schoolchair17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ade459826d64ad944901d0259949eba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh209_Group97_c_schoolchair17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c567550d2a8d6fa4a923f5e777102382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh20_Group36_Group34_Group26_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b451a863c48acab48a2c214b0fc6b6e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh210_Group97_c_schoolchair17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0fab5cfd1b29edb4b99349ae7bdd9081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh211_Component_27_17_Group98_c_schooldesk17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 257bea2ea89c9974daace4480cbf31ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh212_Group98_c_schooldesk17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a3eb5473d191b31469751bdfe06e89af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh213_Group98_c_schooldesk17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8005c48bee92e1f44b0b808408e7ed00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh214_Group98_c_schooldesk17_Group96_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 38250a2ee7317c3419bf7eaf4dc2b041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh215_Component_31_35_Group100_c_schoolchair18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 407f14ec92d853d48bbd2f31d34bd44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh216_Component_31_36_Group100_c_schoolchair18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ac525229a2bdada408a7a02ae6bf4522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh217_Component_24_35_Component_30_18_Group100_c_schoolchair18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ae2bce523e26a2249ba7219d655b2e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh218_Component_24_36_Component_30_18_Group100_c_schoolchair18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5437330bfef685a428522dae4359dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh219_Component_30_18_Group100_c_schoolchair18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b8ba26d5e5ec73145bd67c8e93227456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh21_Group39_Group38_Group37_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 4a214d6ee1d51a8488c61bd558669884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh220_Group100_c_schoolchair18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 60d10ff2d1834f5489dfbbf3cb81c87d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh221_Group100_c_schoolchair18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3adee4123598af54d8523ce72ab5df1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh222_Component_27_18_Group101_c_schooldesk18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: dcac93d17b2f38c468cc96b40d81d27e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh223_Group101_c_schooldesk18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 23dab1c7138709c439cce91c61bbb039, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh224_Group101_c_schooldesk18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1e275fe5f1c026b4a8aa138cb861ab43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh225_Group101_c_schooldesk18_Group99_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 07e127b8297cf4f4b92aba6596b21e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh226_Component_31_37_Group103_c_schoolchair19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d8c59833e3a6c8e4d9afc6f9a4692fa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh227_Component_31_38_Group103_c_schoolchair19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: cfdf7ea944da8804a9afc9abf7ef3db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh228_Component_24_37_Component_30_19_Group103_c_schoolchair19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5c5cffb4968fb934eb03e5a5c75f6ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh229_Component_24_38_Component_30_19_Group103_c_schoolchair19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: cb16db4403f633740b7e6a6ffd360758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh22_Group40_Group38_Group37_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6116fefa58ff5964394795dbf750c230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh230_Component_30_19_Group103_c_schoolchair19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0dfc04c5dbdf6704fa87964333d6c458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh231_Group103_c_schoolchair19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 4fd6286ea350b9d4c96bb139075acb55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh232_Group103_c_schoolchair19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c1552a1eea94ab04dbd2f7160e278579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh233_Component_27_19_Group104_c_schooldesk19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8d052358250ba274fb8972fbf788ad2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh234_Group104_c_schooldesk19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 09a0d6f3ea6f99b429c811134eb7a65f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh235_Group104_c_schooldesk19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: de5a0b3ddb16807489ee924594a1e68f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh236_Group104_c_schooldesk19_Group102_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 48765a04ef4ac53499c6601e06e7a501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh237_Component_31_39_Group106_c_schoolchair20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 90395ff8b11f16445ae8086af7a73776, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh238_Component_31_40_Group106_c_schoolchair20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8186b801a2e9cfd43b23edc6b7eb2646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh239_Component_24_39_Component_30_20_Group106_c_schoolchair20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 36afe41baa01ea7469236358979cfa54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh23_Group41_Group37_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 4ded2f7c68537ee40854097c53348aa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh240_Component_24_40_Component_30_20_Group106_c_schoolchair20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1c1e8bb0e16b9b2469fac2c80516f833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh241_Component_30_20_Group106_c_schoolchair20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: cbbdbde06a64c8941961f859f27e6e7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh242_Group106_c_schoolchair20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: da48e3753f2b95f4289b04c37b427bfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh243_Group106_c_schoolchair20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5074be85a9669754388ecca7c110f1b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh244_Component_27_20_Group107_c_schooldesk20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b541baf8c4815704792649423bafa497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh245_Group107_c_schooldesk20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 70357e9fe475fb948978a1d3c37710e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh246_Group107_c_schooldesk20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 84138ed0cdf8563448553b6d70c6ef8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh247_Group107_c_schooldesk20_Group105_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c9b1cc78746e37744ab1711357626ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh248_Component_31_41_Group109_c_schoolchair21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e7775e2404172a04f8f47b9833ff7331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh249_Component_31_42_Group109_c_schoolchair21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6475b2eb903b01f45a894946946711c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh24_Group43_Group42_Group37_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0a383a79024745149ba262f17e566dcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh250_Component_24_41_Component_30_21_Group109_c_schoolchair21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 23f13195d9ef0494c943e656b6335d02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh251_Component_24_42_Component_30_21_Group109_c_schoolchair21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 46651986aaf110d41bff43ba9686fd0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh252_Component_30_21_Group109_c_schoolchair21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d84602fe036f7864daf120516923653e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh253_Group109_c_schoolchair21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c32fa5392e566c14cb6bf5e0bb3ddb36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh254_Group109_c_schoolchair21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c4497334b5f43f84ea01c16227557e78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh255_Component_27_21_Group110_c_schooldesk21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: dbd8654495a60424b91e83fe761c6a5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh256_Group110_c_schooldesk21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 978f0b3ed7b97184cab57f81c171396f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh257_Group110_c_schooldesk21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b98a296e846f31442a9aaacf23b61fea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh258_Group110_c_schooldesk21_Group108_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 86bb47ff283ad1b4394fc28a130c4174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh259_Component_31_43_Group112_c_schoolchair22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7944482b2328a0d45ad2431fab6dd611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh25_Group44_Group42_Group37_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 558c054da18783248b37b923ca469dc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh260_Component_31_44_Group112_c_schoolchair22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f75fe9867bfe11b4c8fba83dee38dd57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh261_Component_24_43_Component_30_22_Group112_c_schoolchair22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 63da3ebce978b584b8eb30f54a5132bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh262_Component_24_44_Component_30_22_Group112_c_schoolchair22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2a4bb81525e7ba549bbaa2cf7ac4af38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh263_Component_30_22_Group112_c_schoolchair22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 472dd04bd3a60fb40b1fe3ebbdd45dae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh264_Group112_c_schoolchair22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b7e85a01f11e5cd4186f6b5fa156df79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh265_Group112_c_schoolchair22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 43c31304a1a4f9947b92bd97a92e0308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh266_Component_27_22_Group113_c_schooldesk22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e3e22bbf628507e45b97f081e485e07c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh267_Group113_c_schooldesk22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7110915b239fdec4782f1d1f30e66677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh268_Group113_c_schooldesk22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7b09769f3c5c7294e827d55ed3bc857f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh269_Group113_c_schooldesk22_Group111_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5f41d18c43e71d14b8f3e2c069b53358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh26_Group46_Group45_Group42_Group37_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 652aed91a0520ba40ae509750a1c171a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh270_Component_31_45_Group115_c_schoolchair23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bcd1cdb24e262294cb371548ac66b08c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh271_Component_31_46_Group115_c_schoolchair23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2cd657531768e2143a179dbf95efe0e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh272_Component_24_45_Component_30_23_Group115_c_schoolchair23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8ca3e7a7fc0799846b76e173c7b2214c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh273_Component_24_46_Component_30_23_Group115_c_schoolchair23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 79d1cc31ad76ae24e8e8a8c150777b82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh274_Component_30_23_Group115_c_schoolchair23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f274ae2e1325bb34ba10770eab60a802, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh275_Group115_c_schoolchair23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 74f0e89f88e0fe041932c024fa199675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh276_Group115_c_schoolchair23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 764bad68bbdb81c428154ccbc5480505, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh277_Component_27_23_Group116_c_schooldesk23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3e49bc80bee013d468295a435cb08375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh278_Group116_c_schooldesk23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e19b74cf33a0a5c48b08f3f65d4c262d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh279_Group116_c_schooldesk23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d2f65818d5061be408366b18edf712d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh27_Group47_Group45_Group42_Group37_Group25_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a33de21fdf58e9c498a2329eb13a6b2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh280_Group116_c_schooldesk23_Group114_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ef352617e491ddb4fa14e257c42d8a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh281_Component_31_47_Group118_c_schoolchair24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 157d4fb24a95b9d49b58fac6bc379e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh282_Component_31_48_Group118_c_schoolchair24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9fe6688c5487272458e8f84deb0a7d46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh283_Component_24_47_Component_30_24_Group118_c_schoolchair24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6116a6b57f68e43489a5cf3ebb598190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh284_Component_24_48_Component_30_24_Group118_c_schoolchair24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a768d64152d679949ab14c18b1ddb2a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh285_Component_30_24_Group118_c_schoolchair24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e33415cfd70e41e409d1015d919a64ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh286_Group118_c_schoolchair24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 47bebad73650bf8409a0074dfe08b98d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh287_Group118_c_schoolchair24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 991068947eebba842b6c23d2ebdf04ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh288_Component_27_24_Group119_c_schooldesk24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c304dc640b385f04c94c7c15ba961b05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh289_Group119_c_schooldesk24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8b90ea52320b69846b015d6a0d2ac885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh28_Component_31_1_Group49_c_schoolchair1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: eb2a67257358c834fbe4aa468281888b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh290_Group119_c_schooldesk24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 061f2b54a885bd144988ac94d0f420bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh291_Group119_c_schooldesk24_Group117_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: cd661b69af6f03043b3ad593b395b9fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh292_Component_31_49_Group121_c_schoolchair25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 59c68c0b685834849a9151f0e28af0bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh293_Component_31_50_Group121_c_schoolchair25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6c0cc33fa4e784f498f37829cff56b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh294_Component_24_49_Component_30_25_Group121_c_schoolchair25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: fe212e8436406de47b7542491e9eef5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh295_Component_24_50_Component_30_25_Group121_c_schoolchair25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5e4090e32317c7f458ed07f461d525c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh296_Component_30_25_Group121_c_schoolchair25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a7a856c9fa819fd4d8cd425b903bcca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh297_Group121_c_schoolchair25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0e81bfe1d43afa94983672c4743e7391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh298_Group121_c_schoolchair25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 47a4a77066e020a4d8a42d75b89401e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh299_Component_27_25_Group122_c_schooldesk25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 04ee51f0de2b5bf428b8944a74e9fb1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh29_Component_31_2_Group49_c_schoolchair1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e3b4b38770fd4d449ae26eb60ae9a040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh2_Group8_Group7_Group6_Group5_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e9bfde51e89b36640b390ae3b055a8a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh300_Group122_c_schooldesk25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 242ba77a22243dc4d833ff9fcb3cd11a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh301_Group122_c_schooldesk25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f97ec8f6271ab324eb658d3f07fa0fa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh302_Group122_c_schooldesk25_Group120_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a33c20fb361302e4088d053b3514f3f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh303_Group127_Group126_Group125_Group124_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: dfac5128f7cca4547a56a0d4195bcc19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh304_Group128_Group126_Group125_Group124_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 16b77a7eb5950ab49b7c3f2b932b3b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh305_Group130_Group129_Group125_Group124_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a35f0e32bbdd7a4418e9c1daa59f1064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh306_Group131_Group129_Group125_Group124_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 87587fb9c9e19644b9d29c04c5fd955f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh307_Group132_Group125_Group124_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f4884807ff2b4764ebfb107a6ffabe12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh308_Group133_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3781a6b40755c6944bf74b2d21adae82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh309_Group137_Group136_Group135_Group134_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 11978af58acdb8e46b0fe26ea6353ac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh30_Component_24_1_Component_30_1_Group49_c_schoolchair1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 74da63f7021ce3b46bccdd12a1bbd7ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh310_Group138_Group136_Group135_Group134_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 63eee2668d8f55c43b2970e0fd30364b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh311_Group140_Group139_Group135_Group134_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: fecb7166e9e7cae4583ac0ab71fbe241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh312_Group141_Group139_Group135_Group134_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8dda15f89b044a5439935b29bde6a290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh313_Group142_Group135_Group134_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 096d1eb84680c6949a3cd65875d6306d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh314_Group143_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 74de6f845e5f64a4ea83f68b4472f981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh315_Group147_Group146_Group145_Group144_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bca4654ffe6e9dd4e958918ec1844f0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh316_Group148_Group146_Group145_Group144_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f35dc4a13e412de47b650db2de8fbadb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh317_Group149_Group145_Group144_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1264d325f0bcf3949b0b38d76bec604a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh318_Group151_Group150_Group145_Group144_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f268f20260b97724c99736a3f512c1ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh319_Group152_Group150_Group145_Group144_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6f9856eff5260c34990bb8734e8e0ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh31_Component_24_2_Component_30_1_Group49_c_schoolchair1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e02d921b25a455d49a321801a3378ce8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh320_Group154_Group153_Group150_Group145_Group144_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7c0da93b7be91d247803b7b6b230a585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh321_Group155_Group153_Group150_Group145_Group144_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8d41deb41ca8ea74cb7e8b5612c6c016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh322_Group159_Group158_Group157_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0b7593c8f19686844bac7747bc9369f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh323_Group160_Group158_Group157_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b7583b3bfcf1f904090dfcc150cf4573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh324_Group162_Group161_Group157_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: dc5defe1db7b3ae4ba53e73fbdf9dcaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh325_Group163_Group161_Group157_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 229ae73f5e5a55d4fb80bedd88672a3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh326_Group164_Group157_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 89767c1be8e42ea4b979810010048488, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh327_Group165_Group157_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: eff831e314d909c428d82f973db75387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh328_Group168_Group167_Group166_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 145c8e892bde62b4ab81dc8f93cbe9a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh329_Group169_Group167_Group166_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 325df17ad2d97284aa386e932289c40a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh32_Component_30_1_Group49_c_schoolchair1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 46eb3d6d5bd447548a7ae459dead6f56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh330_Group171_Group170_Group166_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a58d003f1ac6de94da824dcdf0e56c3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh331_Group172_Group170_Group166_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f7e0cfb55402ce942833be32fc35f4de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh332_Group173_Group166_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 66c8083e634f88c429217d08feb7a180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh333_Group174_Group166_Group156_Group123_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e51f43e61d68f4a45a92db52fc84d79d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh334_Group176_Group175_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d6b8c0fc54e2aae4d9576c6fd8452a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh335_Group177_Group175_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8d3cabb15b3fc764aa01e912f30dc1c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh336_Group178_Group175_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b131a1e6a92a7054296697c11d3123f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh337_Group180_Group179_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e03b679d7f33fa84191fb5f060fe7973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh338_Group181_Group179_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7997d8b1cb0ca664388a07981f94e75a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh339_Group183_Group182_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9b45cddcf3fbe0c44a0f63fb90cd3e4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh33_Group49_c_schoolchair1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 875808681227f614a90c698398735976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh340_Group182_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bf6ef2c12c543b64586847b88ceb70a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh341_Group186_Group185_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b92b4e69732a8bb4e9aa66e748057112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh342_Group187_Group185_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: df6999dbbf5b85945826fa3f8fd20d05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh343_Group189_Group188_Group185_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 22850223d148e904eb8f5976c0042137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh344_Group190_Group188_Group185_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b8a916c4bd89f644d89895a22c4b9c30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh345_Group192_Group191_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 29935f196e5b59e4e8b10b41eef31c21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh346_Group193_Group191_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f84c56de0ec825b4896f1a69c4407e9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh347_Group195_Group194_Group191_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 29d1b6b2b41285a42bbc799faa5c6b30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh348_Group196_Group194_Group191_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b0462553467ca1d44959d7450bc0c9d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh349_Group199_Group198_Group197_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 31bbfa62196dd4941b1f2fb0194a858f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh34_Group49_c_schoolchair1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0ceb1fe53ed1eef42a6ec9519649e0bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh350_Group200_Group198_Group197_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6737f9b4a64534645b11f28e824115e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh351_Group201_Group197_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3530e7956c618fb4b85d4c3ea2517e04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh352_Group202_Group197_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 585c6cd99f1277542a54d9056710b585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh353_Group203_Group197_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3f20a4fc132721c4ab9db2f285b48507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh354_Group204_Group197_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e1251fd5541086f478178a92ad373f23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh355_Group206_Group205_Group197_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5c48b1de7bb3c7546a3c0136cfca5e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh356_Group207_Group205_Group197_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1b298e183d66fe8438bb899baf0b1c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh357_Group209_Group208_Group197_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8f9823339cbd6934da4f5370dec76bf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh358_Group210_Group208_Group197_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f40c498ae945020448a7a31087ac9327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh359_Group213_Group212_Group211_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1fe8026519e476e4892154a776c688dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh35_Component_27_1_Group50_c_schooldesk1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 793aae99396823e488660fe9e6049fc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh360_Group212_Group211_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1c751036c883d0d468a30468450b8dbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh361_Group214_Group211_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 886198a2a1bc89547a3d011f53a31957, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh362_Group216_Group215_Group211_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 16648e84608a12e4fbee8ce02a015909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh363_Group215_Group211_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0a367a955e5c4664485a165bb7d2d303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh364_Group217_Group184_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a19d03ddf09790941aac93d3fb6b158a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh365_Group219_Group218_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f68e90a211cc5c54b9700beceed16e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh366_Group220_Group218_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5e6f76bb98b279145b2b4bc5c36fc903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh367_R1_Group222_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bddb2554ac4e0e6458216f58bcf74e9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh368_Group222_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: cd18c6b106385544c8c53281a87cd500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh369_A1_Group223_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 30e91ac09a696264591b795e37748ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh36_Group50_c_schooldesk1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2e2174cc2bfec7e4380b12d1fbe00841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh370_Group223_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ae5311ddde051b84281e255ef4370465, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh371_I1_Group224_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9cce18ad1201a494b9064a77428dc825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh372_Group224_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 071a7f684c7e0c64a84bf5be50f6f055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh373_Z1_Group225_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 076f1edb03152f343a411ce655ae53d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh374_Group225_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0c2d2c6c92846814e8bb6ddfc75f58e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh375_E1_Group226_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5b9d5fa5e72280a438879c5315483a66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh376_Group226_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: df40564159ac79446a2505d57713388c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh377_Y1_Group227_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7788653a7545e394185eb7947a2af1bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh378_Group227_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9a45bcd00f839ab47982c35b98881b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh379_L1_Group228_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3b183e7aebf3d2541891230ac0e63efe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh37_Group50_c_schooldesk1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: dd0f07c682b73824dbe45a434015fd4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh380_Group228_Group221_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b6165e2eb1a21b1499614591a6f55a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh381_Group231_Group230_Group229_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a99432cc8f758b742835616359be06d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh382_Group232_Group230_Group229_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a7daa9eac1fb5d44f9d322c40c31c735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh383_Component_27_26_Group233_c_schooldesk26_Group229_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7eae521fd457daf4da3b518c78808102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh384_Group233_c_schooldesk26_Group229_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6081302f7db8f1145a6ad19a6ef9e569, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh385_Group233_c_schooldesk26_Group229_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ce8c1b0136cb9604a9c82eb34546a985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh386_Group233_c_schooldesk26_Group229_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 301f8ce75f234c5499ecb99a93f926df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh387_Group235_Group234_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0e61b42f3bfffa04693d48746ce79029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh388_Group236_Group234_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: cf23de431c28ffa4194591544dda8cc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh389_Group241_Group240_Group239_Group238_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5d3391a186fb6164fb9baa68fbb8d3b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh38_Group50_c_schooldesk1_Group48_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ad5733a226eef6b4ea12a968b26f130b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh390_Group242_Group240_Group239_Group238_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 960e74e2a8de5ba449ded2d253f3b293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh391_Group244_Group243_Group239_Group238_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: dd53af086b9d6a24081c73a9fc7d1bea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh392_Group245_Group243_Group239_Group238_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bd353076f0f3a6e41a2ce7fb033f15f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh393_Group246_Group239_Group238_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ba807f9af22ea164f8891d1434eff14a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh394_Group247_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: dff2edb5838287643907c2dd54aada76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh395_Group251_Group250_Group249_Group248_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 14f583c5291c569459c085c5c84e2112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh396_Group252_Group250_Group249_Group248_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 714d6247f33b4e3459085f8f67a63bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh397_Group254_Group253_Group249_Group248_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bca39f1fde82beb46a053be12ddee114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh398_Group255_Group253_Group249_Group248_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 59af54a6621c84545b68d46f4387fe06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh399_Group256_Group249_Group248_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c6cfe559927169c4fa7970d35b39672d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh39_Component_31_3_Group52_c_schoolchair2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e0ffad66f35b7a24f926ab32dfa8c240, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh3_Group9_Group7_Group6_Group5_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 4952df1dc95b78b46b57bec672b3f94f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh400_Group257_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e9e5f34db96f88f4b89e5ec521fd088b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh401_Group261_Group260_Group259_Group258_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5d355327b1216ed43a4b995f14e4cd35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh402_Group262_Group260_Group259_Group258_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7f8c965bf6f1bb34ca6fb602c215a06f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh403_Group263_Group259_Group258_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a408adeeae2366c4384ea795d765b8cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh404_Group265_Group264_Group259_Group258_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7cc12d35c33c7024ca16fe341247d858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh405_Group266_Group264_Group259_Group258_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a977e6e542630224c90d683b6a306e6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh406_Group268_Group267_Group264_Group259_Group258_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 877e017a8d762c94d802476e8d846d43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh407_Group269_Group267_Group264_Group259_Group258_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: db3f8edeefdd1574cba71bcf6559acd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh408_Group273_Group272_Group271_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: de9fc141575ae1a4f8412e45f4b40648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh409_Group274_Group272_Group271_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 17102eb688e4ce1439fba256d718ff62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh40_Component_31_4_Group52_c_schoolchair2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 49a85b063ad936049a42defc7c1b9d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh410_Group276_Group275_Group271_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2f46329e005856e48aee0e7b576005fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh411_Group277_Group275_Group271_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 831d1f735b545354eb31187431bd4c76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh412_Group278_Group271_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 739b6b284e59bd14d8b22c684e99fb58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh413_Group279_Group271_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6d8ad723477ecc042b86a3282b52caae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh414_Group282_Group281_Group280_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f9f43195a4daaa0428a6a0bcc5647bfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh415_Group283_Group281_Group280_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 09573269506834448bcc7fb3ed6792da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh416_Group285_Group284_Group280_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 68e26a05841b722439c6bcc2dddd3304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh417_Group286_Group284_Group280_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: aabe234d39af85b44ba23c3d7b8a3015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh418_Group287_Group280_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2c32ac4f5682b184dbe79889ef55a800, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh419_Group288_Group280_Group270_Group237_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 61f4a82f2d38dbf4ea6c11a28520e238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh41_Component_24_3_Component_30_2_Group52_c_schoolchair2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 345d0b93db2ded04b92524f6d2ef3974, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh420_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 61b5c532e06d5aa4fb3f3464bcaffed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh421_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3ce27bfbe8ded4b4c99895afe408bfdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh422_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f3a743f05a703a549995579bb9d029c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh423_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ec96895d8d422804ab739f8f1b8dd811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh424_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 700a5eb3ff0b2ec40b85f9a185334df2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh425_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 948ec8d51d53c0f478007a98d0df02a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh426_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d081559cd1d51d041878714548663863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh427_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2306847830a1f0e4a9926fa845d830eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh428_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9865f8b11e926b94198f9f3ac438aaeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh429_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2bb7e57752093db4685a85dca35dce2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh42_Component_24_4_Component_30_2_Group52_c_schoolchair2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 80a9a49b0185f3743b0ad6b3e2cdb672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh430_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7b7ceaa12150d264894e59b893ae1d7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh431_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5d63aca6a29008b4f8959d9159b6e8a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh432_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 655550ec80a284f4eb68a5ff21839ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh433_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 039570deb8a319e4aaee62f50f106d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh434_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: dda171ddf9eba0b4c90ea3c96dfbd1a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh435_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8629648bf9c7905469a60f72a2f7dfd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh436_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3f89260c74ea9bc458d9194862b1c63c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh437_Group290_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6001a2c0a0ef9274687a41d2157a5688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh438_Group291_Group289_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 61e4135b1beb11444ab7c30fd4b4aee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh439_Group293_Group292_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1f3d6470ab9e96046b7a039e2d64e510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh43_Component_30_2_Group52_c_schoolchair2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1a20c7ca29f6d7542bcc6110c67cae8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh440_Group295_Group294_Group292_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 31148dded6553d24caf573b01c826e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh441_Group296_Group294_Group292_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1e6d30fd28dbbee4497de0a13f4d02ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh442_Group298_Group297_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1279c3326ad31a24fac150be3bffb007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh443_Group299_Group297_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b6559a51a661ed0499df52510999019b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh444_Group304_Group303_Group302_Group301_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e4f794c73d6c53943a7035c855f48042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh445_Group305_Group303_Group302_Group301_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 301dfbb80eef7ec40ac6277498665db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh446_Group307_Group306_Group302_Group301_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ec2270d55976d3d43b36542a8441c161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh447_Group308_Group306_Group302_Group301_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a0555fae55918984a951cf9684a23338, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh448_Group309_Group302_Group301_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9da108aed77397341abf6be1c9cc3b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh449_Group310_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b157aa0e17c99684cae17b5b434f6d76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh44_Group52_c_schoolchair2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d23d26dcd9ddf164297ff69220d5a832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh450_Group314_Group313_Group312_Group311_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e79e405c6d592fc4e9dd7ebe0ac763c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh451_Group315_Group313_Group312_Group311_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6418fa0c6510d3340a34276bf394ca2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh452_Group317_Group316_Group312_Group311_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2ffaf60162c0b2645a348fbc72aae5ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh453_Group318_Group316_Group312_Group311_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d9398cb4649b04e42be191b8961916e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh454_Group319_Group312_Group311_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 52f4368b07d789e46be4b773b08a213c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh455_Group320_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: fc48d60d897da094a8b5d9b3b4ce9a6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh456_Group324_Group323_Group322_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 96fe9f12d4af7fa459f8b9c74594b9df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh457_Group325_Group323_Group322_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 03d560270cf5e464aa0a927e22f02aeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh458_Group327_Group326_Group323_Group322_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 08e96149127bca6418203fbc5874f297, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh459_Group328_Group326_Group323_Group322_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: fe06e10b9c39c8e45a39cadb63f7b01a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh45_Group52_c_schoolchair2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5d0d91cd95be50f45b4da50c0ca6cf17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh460_Group329_Group322_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: adaf1aefd89df0342a402d1cabeedc66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh461_Group331_Group330_Group322_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6646d2e8c2731ea43b2a595b0c8aeeea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh462_Group332_Group330_Group322_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a0d5c2dfdec15c24fb7445d57730255c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh463_Group335_Group334_Group333_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b9bed500f551c0a428e60f22299c2c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh464_Group336_Group334_Group333_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 81f755afb8bb97a4fb397576226a0b20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh465_Group337_Group333_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: aac5fc4bb0db35b4e80e638dba5406e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh466_Group339_Group338_Group333_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a2358dac8e375cc40b4ee8d4c3f39704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh467_Group340_Group338_Group333_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: dc9faa8aa09ead544acab9ec71a6828a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh468_Group342_Group341_Group338_Group333_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 42294bb773b4c3a4fab74c4e53662c7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh469_Group343_Group341_Group338_Group333_Group321_Group300_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ed98dc579ce2a0543a31b5655fbed831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh46_Component_27_2_Group53_c_schooldesk2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3ce965604622cb64a99141236ddcf2eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh470_Group344_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0b362afa271ae894ca3acfd09feb44be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh471_Hodiny1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 45e5c008fbb70814ba33fa44a21e008e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh472_Group350_Group349_Group348_Group347_Group346_Group345_globe1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0eec330ae9e210d4f975ba235aed9152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh473_Group351_Group349_Group348_Group347_Group346_Group345_globe1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 934a40e2edf094047be886ad612a08cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh474_Group353_Group352_Group348_Group347_Group346_Group345_globe1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5650c574730489440b4bfeea3e880dc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh475_Group354_Group352_Group348_Group347_Group346_Group345_globe1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9664f76a9b39add4fb1196464e65749c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh476_Group355_Group347_Group346_Group345_globe1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 09702fb7a5ad4db40b9a42b158cf3aaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh477_Group355_Group347_Group346_Group345_globe1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bd92df66399357643b90d33053a3c390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh478_Group355_Group347_Group346_Group345_globe1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5d097afd057d84e43bf6912329cb5c8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh479_Group357_Group356_Group346_Group345_globe1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 09d2c612fdd1118439393c2c26e51a8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh47_Group53_c_schooldesk2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6784379be15631a47a32264023b97c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh480_Group358_Group356_Group346_Group345_globe1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3db98f054a56d81449d6d679ae98cafd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh481_Group359_Group345_globe1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: cc50219377cde5242a86bf5d5c525d2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh482_Group360_Component_43_1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 22be3f8963e045942ac20008d6927e44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh483_Group361_Component_43_1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a14ca32699af2084faebc237571f6f54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh484_Component_43_1_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 69280a6f6ecc85242ac4d5cb0b84a083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh485_Group362_Component_43_2_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 66abbe95a1d02ab43930bf79b495caa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh486_Group363_Component_43_2_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e133773bc3f932f46a8d89880614056a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh487_Component_43_2_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ab7837a02801255408cc259f659cd18b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh488_Group364_Component_43_3_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8c31e49627f6a9347ae5c7e86e356f4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh489_Group365_Component_43_3_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6bcb12d9419670b45a045f4c84d39207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh48_Group53_c_schooldesk2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 4300964ffff18714298604a06e59210f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh490_Component_43_3_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b081e55474d139a4a81088ab3ea83359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh491_Group366_Component_43_4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ec32222d67993a743a752e12bf9dddd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh492_Group367_Component_43_4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3cb8098042ff182478b38c96bcb54445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh493_Component_43_4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 03c0a8b6646a9cc428652116255afd84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh494_Group368_Component_43_5_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e49d2684ce99bb04da1eebdc80a6011c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh495_Group369_Component_43_5_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1dffc9e8d51ec944a834d551a7b95f67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh496_Component_43_5_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 146475e93fd418c45931919e12561e92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh497_Group370_Component_43_6_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e806cb0af63104a40966612a18ff4644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh498_Group371_Component_43_6_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: abd214929fe269a4ea404ca65ad4708f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh499_Component_43_6_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2508e53e00d85fe45a805d950f1b4d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh49_Group53_c_schooldesk2_Group51_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6b9ba86a219116648bbc6362b3811cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh4_Group11_Group10_Group6_Group5_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d05fbad6ca447874bb7fca4c5a29fc5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh500_Group372_Component_43_7_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7ec1f8ade58bce843a2a050eb5523533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh501_Group373_Component_43_7_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 69109fd3ad3e5bb4b8d483de042a3f3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh502_Component_43_7_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 01ec025f72b5bf94aaabdcb71b0faeb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh503_Group374_Component_43_8_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2e3782241fdf1ab4ca95b005ad38f7f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh504_Group375_Component_43_8_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3bd0ee72c7e52aa4c9c1cb934e0cd098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh505_Component_43_8_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 4e270b03a80e3a849ba382db548c52f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh506_Group376_Component_43_9_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c0bc097a2ec334540980d1da41304db5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh507_Group377_Component_43_9_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e0b841d78c1d7714db0ad258786ff723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh508_Component_43_9_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f605ca78348b632489b4f8ea9864923b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh509_Group378_Component_43_10_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 46cfe5b3c1051cf4aa06c7b36a00e07d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh50_Component_31_5_Group55_c_schoolchair3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0a94469d4cb58d249a58d655f533f3e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh510_Group379_Component_43_10_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9ae5815febf4cd14e84ea1feea3cac4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh511_Component_43_10_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a0b397a3b58982647a7fb3e5083bcbf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh512_Group380_Component_43_11_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ec3006d3c1a7d664ab87b388d1af2a17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh513_Group381_Component_43_11_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ca0a9e0c26144494580a005fa0a29e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh514_Component_43_11_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 67109cb0c15633742b121773ee6f0d05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh515_Group383_Group382_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6094df15231590e4c95ca1860c6dfc56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh516_Group384_Group382_Group1_ModelMat
+    second: {fileID: 2100000, guid: a210cc2cc8384b4478e588441247c212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh517_Group385_Group382_Group1_ModelMat
+    second: {fileID: 2100000, guid: 60b8148d9386b1749a803778bde57c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh518_Group386_Group382_Group1_ModelMat
+    second: {fileID: 2100000, guid: dc35356b4223ca2408c53cf408dab8da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh519_Group387_Group382_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1192649e17d157b4e9996475cb96aead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh51_Component_31_6_Group55_c_schoolchair3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 6c8d2478fb0fde843ba4388c21e99187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh520_Group388_Group382_Group1_ModelMat
+    second: {fileID: 2100000, guid: 657fd556f66c0ff4da08aebc67562594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh52_Component_24_5_Component_30_3_Group55_c_schoolchair3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f8dfe3cd5e456a24b88c49784c4cd6b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh53_Component_24_6_Component_30_3_Group55_c_schoolchair3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 08207cfcbc9c99b47a1c4e488a335db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh54_Component_30_3_Group55_c_schoolchair3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b6c526996f564474f8cfddb7993f2254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh55_Group55_c_schoolchair3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 148e63ba356f3db46bcf4d9f2ae846ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh56_Group55_c_schoolchair3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 648c56930edc2f54f9b060ae3addfae8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh57_Component_27_3_Group56_c_schooldesk3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a9bcb2ed2663b484da963c2d6cfd0d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh58_Group56_c_schooldesk3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: fc653a37ad08c21449013a3fa01b469e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh59_Group56_c_schooldesk3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 36b68043062a6e345a35e9de77910eb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh5_Group12_Group10_Group6_Group5_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: fac65b5218078c1499d984e5c9441ef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh60_Group56_c_schooldesk3_Group54_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d54741973ca122c448b8dc92a073030a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh61_Component_31_7_Group58_c_schoolchair4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 1c2d2b7e35a1ca54ba6a35b4eec51675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh62_Component_31_8_Group58_c_schoolchair4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9de7ad1559e38c545a813373abce9ecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh63_Component_24_7_Component_30_4_Group58_c_schoolchair4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3ef76072b8971074f9e41a50555ad468, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh64_Component_24_8_Component_30_4_Group58_c_schoolchair4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a73d565171fed2c40be34374a8b909ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh65_Component_30_4_Group58_c_schoolchair4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 74befda3ad9fb79498e2c9aadc61c313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh66_Group58_c_schoolchair4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2aaa9acc49b0ec146b7cebafb3055fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh67_Group58_c_schoolchair4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3a184edf979b3ca49ac0f982351e4645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh68_Component_27_4_Group59_c_schooldesk4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: c4dd63a0977d32e4ebed164f1fdafc56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh69_Group59_c_schooldesk4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 05eb0dd1d592c5d479cecde67d497831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh6_Group13_Group6_Group5_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: fd97a8fd33f4ed74690a4cfe6e69d12b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh70_Group59_c_schooldesk4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: e2877ac4bbb0f904f9bb7f9243feaa6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh71_Group59_c_schooldesk4_Group57_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: bb6c344632a0fbf4e8019ae8ba90f364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh72_Component_31_9_Group61_c_schoolchair5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 4b32d906f1313044b953560a3abf265d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh73_Component_31_10_Group61_c_schoolchair5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f960cafe220eec742955a57c40241c5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh74_Component_24_9_Component_30_5_Group61_c_schoolchair5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7108c2cebd34e314eb35aba1b235e658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh75_Component_24_10_Component_30_5_Group61_c_schoolchair5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 5e5afea0bcaf8064296cf979d77bcb14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh76_Component_30_5_Group61_c_schoolchair5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3fdaa4a52f0345c4c9c28321acdd7421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh77_Group61_c_schoolchair5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: b1eeb675c498ac34abbe73f64c0ae6eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh78_Group61_c_schoolchair5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 48c2cafd4601b8c429eb74e891938fd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh79_Component_27_5_Group62_c_schooldesk5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 95535fd82af7a78448d066cd7fb846c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh7_Group14_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3d9b08c3c54ac0844bdbcf218c5db88b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh80_Group62_c_schooldesk5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f4806723772660e4393170e498bda547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh81_Group62_c_schooldesk5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 3984274e88bb11049a531878c920adb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh82_Group62_c_schooldesk5_Group60_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: a8ac3929b53064a409f1d2bffd5d96d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh83_Component_31_11_Group64_c_schoolchair6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 956d2a90ab4917346b3ad8be0d7816b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh84_Component_31_12_Group64_c_schoolchair6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 274ef8312e2a4334d9e1b8b2851b5d7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh85_Component_24_11_Component_30_6_Group64_c_schoolchair6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0d335ca21796139468a531514423b044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh86_Component_24_12_Component_30_6_Group64_c_schoolchair6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 9303cf7184905a4419cc33811850ff5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh87_Component_30_6_Group64_c_schoolchair6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: f3f78bcb6f3d5e94bbefa2502058bd52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh88_Group64_c_schoolchair6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: da7d40f46483c5f4cb7080ce5dbf31c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh89_Group64_c_schoolchair6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 2d7712f2298d46e4ca4a247ac3c67b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh8_Group18_Group17_Group16_Group15_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 38d7009e6d87e79478eeb64206ff01af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh90_Component_27_6_Group65_c_schooldesk6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0507ae1edbfd5624795cc9d20b612a44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh91_Group65_c_schooldesk6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 4c8e40c3d35469640bc70efa82adfe1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh92_Group65_c_schooldesk6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 10a1a2701a02d09439b47f88deb67a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh93_Group65_c_schooldesk6_Group63_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: ff8e09526f2de614bba7bcb3b26c8ac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh94_Component_31_13_Group67_c_schoolchair7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 0c78907d87a216a40a87fbd214edbe0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh95_Component_31_14_Group67_c_schoolchair7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: abce04a5fae613a4f8010a3e03dfecd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh96_Component_24_13_Component_30_7_Group67_c_schoolchair7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 087c48fb94f007546b4ae5e071ec8541, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh97_Component_24_14_Component_30_7_Group67_c_schoolchair7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 491441a25f9044f4fb89b04388dd4fc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh98_Component_30_7_Group67_c_schoolchair7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: db25db80b5a6b26428e1da568448a215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh99_Group67_c_schoolchair7_Group66_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: d8dbac5afa19a0b4a99a579273500381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh9_Group19_Group17_Group16_Group15_Group4_Group3_Group1_ModelMat
+    second: {fileID: 2100000, guid: 8fac8362fb8f14b42a631365acd5c1ca, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0015
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0015
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
