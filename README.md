@@ -75,69 +75,66 @@ This project is licensed under the MIT License.
 
 ## Working & Responsibilities of Scripts
 **AttendeesManager.cs**
-•	Manages the presence and state of users (attendees) in a virtual environment.
-•	Listens for user join/leave events and updates local data structures and UI accordingly.
-•	Maintains a dictionary of active actors and prevents duplicate attendee entries.
-•	Handles network events to synchronize attendee information across all clients.
-•	Integrates with other manager scripts for coordinated attendee and post data management.
-•	Acts as a central controller for all attendee-related logic.
+-	Manages the presence and state of users (attendees) in a virtual environment.
+-	Listens for user join/leave events and updates local data structures and UI accordingly.
+-	Maintains a dictionary of active actors and prevents duplicate attendee entries.
+-	Handles network events to synchronize attendee information across all clients.
+-	Integrates with other manager scripts for coordinated attendee and post data management.
+-	Acts as a central controller for all attendee-related logic.
 ---
 **Room.cs**
-•	Represents a virtual room where users can join, leave, and interact.
-•	Manages posts and attendees specific to the room.
-•	Handles UI logic for post creation, attendee entry, and input field management.
-•	Provides methods for adding/removing attendees and posts in response to network or user events.
-•	Integrates with attendee and post entry components for dynamic UI updates.
+-	Represents a virtual room where users can join, leave, and interact.
+-	Manages posts and attendees specific to the room.
+-	Handles UI logic for post creation, attendee entry, and input field management.
+-	Provides methods for adding/removing attendees and posts in response to network or user events.
+-	Integrates with attendee and post entry components for dynamic UI updates.
 ---
 **TeleportHandler.cs**
-•	Handles user teleportation (joining and leaving rooms) within the virtual environment.
-•	Listens for join/leave button events and triggers room entry/exit logic.
-•	Notifies other systems when a user enters or leaves a room.
-•	Updates the user's position and orientation in the virtual space accordingly.
+-	Handles user teleportation (joining and leaving rooms) within the virtual environment.
+-	Listens for join/leave button events and triggers room entry/exit logic.
+-	Notifies other systems when a user enters or leaves a room.
+-	Updates the user's position and orientation in the virtual space accordingly.
 ---
 **AttendeesNetworkManager.cs**
-•	Manages network communication related to attendees.
-•	Sends and receives network events for attendee join/leave actions.
-•	Notifies all or specific clients about attendee state changes.
-•	Ensures attendee data is synchronized across the network.
+-	Manages network communication related to attendees.
+-	Sends and receives network events for attendee join/leave actions.
+-	Notifies all or specific clients about attendee state changes.
+-	Ensures attendee data is synchronized across the network.
 ---
 **PostNetworkManager.cs**
-•	Handles network communication for post-related actions.
-•	Sends and receives events for post creation and updates.
-•	Synchronizes post data across all clients or specific users.
-•	Provides methods to broadcast post information to the network.
+-	Handles network communication for post-related actions.
+-	Sends and receives events for post creation and updates.
+-	Synchronizes post data across all clients or specific users.
+-	Provides methods to broadcast post information to the network.
 ---
 **LeaveRoom.cs**
-•	Represents the logic for a user leaving a room.
-•	Provides an interface for UI interaction to trigger room exit.
-•	Notifies other systems when a user requests to leave a room.
+-	Represents the logic for a user leaving a room.
+-	Provides an interface for UI interaction to trigger room exit.
+-	Notifies other systems when a user requests to leave a room.
 ---
 **JoinRoom.cs**
-•	Represents the logic for a user joining a room.
-•	Handles UI interaction for room entry, including visual feedback (e.g., button blinking).
-•	Notifies other systems when a user requests to join a room.
+-	Represents the logic for a user joining a room.
+-	Handles UI interaction for room entry, including visual feedback (e.g., button blinking).
+-	Notifies other systems when a user requests to join a room.
 ---
 **PostViewerEntry.cs**
-•	Represents a single post entry in the UI.
-•	Displays post title, content, author, and room number.
-•	Handles UI interaction for viewing or editing post details.
-•	Integrates with the room and post management systems.
+-	Represents a single post entry in the UI.
+-	Displays post title, content, author, and room number.
+-	Handles UI interaction for viewing or editing post details.
+-	Integrates with the room and post management systems.
 ---
 **ActorData.cs**
-•	Stores and manages data related to a user (actor) in the environment.
-•	Handles assignment of actor properties and downloading of profile pictures.
-•	Provides event handling for avatar changes and data updates.
+-	Stores and manages data related to a user (actor) in the environment.
+-	Handles assignment of actor properties and downloading of profile pictures.
+-	Provides event handling for avatar changes and data updates.
 ---
 **AttendeesEntry.cs**
-•	Represents a single attendee entry in the UI.
-•	Displays attendee name, profile picture, room number, and join time.
-•	Handles UI interaction for attendee-related actions.
+-	Represents a single attendee entry in the UI.
+-	Displays attendee name, profile picture, room number, and join time.
+-	Handles UI interaction for attendee-related actions.
 ---
 **RaycastHandler.cs**
-•	Handles raycast-based UI interaction in the virtual environment.
-•	Detects user clicks and triggers actions on UI elements implementing the IUIRaycastable interface.
-•	Provides a generic interface for making UI elements interactable via raycasting.
+-	Handles raycast-based UI interaction in the virtual environment.
+-	Detects user clicks and triggers actions on UI elements implementing the IUIRaycastable interface.
+-	Provides a generic interface for making UI elements interactable via raycasting.
 
-
-
-For any questions or issues, please use the GitHub Issues tab.
